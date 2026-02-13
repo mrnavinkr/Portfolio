@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://1navinraj.netlify.app/)
+🔗 [View Portfolio Live](https://1navin-portfolio.netlify.app/)
 
 ## 🛠️ Tech Stack
 
